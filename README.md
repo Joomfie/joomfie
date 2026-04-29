@@ -6,6 +6,8 @@
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joomfie&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joomfie&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   </td>
     <td>
 
